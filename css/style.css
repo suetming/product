@@ -165,7 +165,8 @@ margin: 0;
 }
 
 .timeline .event ul li {
-
 display: list-item;
 text-align: -webkit-match-parent;
+list-style-type:none;
 }
+
